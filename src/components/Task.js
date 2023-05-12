@@ -8,7 +8,7 @@ import {
   Box,
   VisuallyHidden,
 } from '@chakra-ui/react';
-import { BellIcon } from '@chakra-ui/icons';
+import { StarIcon } from '@chakra-ui/icons';
 
 export const Task = ({
   task: { id, title, state },
